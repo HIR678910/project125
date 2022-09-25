@@ -1,0 +1,27 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px lavenderblush;
+    }
+    
+    .note{
+        font-size: 15px;
+        color: rgb(238, 192, 255);
+    }
+    
+    .footer{
+        position: fixed;
+        color: rgb(64, 141, 243);
+        bottom: 0;
+        width: 100%;
+        background-color: rgb(161, 247, 255);
+        line-height: 3;
+        text-align: center;
+    }
+    
+    canvas{
+        border: 5px solid whitesmoke;
+        border-radius: 20px;
+        box-shadow: 5px 5px 5px rgb(74, 254, 245);
+    }
